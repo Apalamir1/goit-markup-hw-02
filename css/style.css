@@ -4,9 +4,9 @@
   --focus-color: #2196f3;
 }
 body {
-  font-family: "Roboto";
+  font-family: 'Roboto';
   color: var(--main-color);
- }
+}
 a {
   text-decoration: none;
   color: var(--main-color);
@@ -15,26 +15,26 @@ ul {
   list-style: none;
 }
 .hero-button {
-    background: #2196F3;
-    color: #FFFFFF;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
-    line-height: 30px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.06em;
+  background: #2196f3;
+  color: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
 }
 .hero-button:hover,
 .hero-button:focus {
-    background:     #188CE8;
-    color: #ffffff);
+  background: #188ce8;
+  color: #ffffff;
 }
 .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-decoration: none;
   font-style: normal;
   font-weight: bold;
@@ -42,7 +42,7 @@ ul {
   line-height: 31px;
 }
 .logo:hover,
-.logo:focus{
+.logo:focus {
   color: var(--focus-color);
 }
 .web {
@@ -61,16 +61,10 @@ ul {
   color: var(--focus-color);
 }
 .presence-effect {
-  color: #2196F3;
+  color: #2196f3;
 }
-.link-contact{
+.link-contact {
   color: #757575;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
-
 }
 .link-contact :hover,
 .link-contact :focus {
@@ -80,14 +74,14 @@ ul {
   background: #2f303a;
 }
 .hero-text {
-    color: #ffffff;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 60px;
-    text-align: center;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 .about-us-title {
   font-style: normal;
@@ -115,7 +109,7 @@ ul {
   letter-spacing: 0.03em;
 }
 .team {
-  background:  #F5F4FA;
+  background: #f5f4fa;
 }
 .team-title {
   color: var(--main-color);
@@ -178,39 +172,39 @@ footer {
 }
 .logo-footer:hover,
 .logo-footer:focus {
-  color:var(--focus-color)
+  color: var(--focus-color);
 }
 .profile-button {
-    background: #F5F4FA;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.62;
-    /* identical to box height, or 162% */
-    
-    text-align: center;
-    letter-spacing: 0.03em;
-    
-    color: #212121;
+  background: #f5f4fa;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  /* identical to box height, or 162% */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
 }
 .profile-button:hover,
 .profile-button:focus {
-    background: #2196F3;
-    color: #FFFFFF;
+  background: #2196f3;
+  color: #ffffff;
 }
 .portfolio-list-title {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 36px;
-    letter-spacing: 0.06em;
-    color: #212121;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: #212121;
 }
 .portfolio-list-text {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 30px;
-    letter-spacing: 0.03em;
-    color: #757575;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
