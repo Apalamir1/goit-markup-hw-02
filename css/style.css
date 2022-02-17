@@ -60,7 +60,7 @@ ul {
 .link :focus {
   color: var(--focus-color);
 }
-.presence-effect {
+.presence {
   color: #2196F3;
 }
 .link-contact{
